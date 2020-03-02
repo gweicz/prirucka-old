@@ -1,0 +1,28 @@
+baseURL: 'https://gwei.cz/'
+languageCode: cs-cz
+title: gwei.cz
+theme: book
+enableGitInfo: true
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+
+  after:
+    - name: GitHub
+      url: https://github.com/gweicz
+      weight: 10
+    - name: Twitter
+      url: https://twitter.com/gweicz
+    - name: Discord (chat)
+      url: https://discord.gg/FpxwbnM
+
+
+params:
+  BookRepo: https://github.com/gweicz/czsk-cryptoscene 
+  BookEditPath: edit/master/site/content
+  BookLogo: https://raw.githubusercontent.com/gweicz/brand/master/logo/gwei3.png

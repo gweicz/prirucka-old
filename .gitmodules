@@ -1,0 +1,9 @@
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "resources/dczk"]
+	path = resources/dczk
+	url = git@github.com:gweicz/dczk.git
+[submodule "resources/czsk-cryptoscene"]
+	path = resources/czsk-cryptoscene
+	url = git@github.com:gweicz/czsk-cryptoscene.git
