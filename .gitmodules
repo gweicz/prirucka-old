@@ -7,3 +7,6 @@
 [submodule "resources/czsk-cryptoscene"]
 	path = resources/czsk-cryptoscene
 	url = git@github.com:gweicz/czsk-cryptoscene.git
+[submodule "resources/dao"]
+	path = resources/dao
+	url = git@github.com:gweicz/dao.git

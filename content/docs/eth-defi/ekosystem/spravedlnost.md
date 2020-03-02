@@ -1,8 +1,9 @@
 ---
-title: Soudnictví
+title: Spravedlnost
+weight: 70
 ---
 
-# Soudnictví
+# Spravedlnost
 
 Za stakování tokenů je dovoleno uživateli rozhodovat o sporech vzniklých nejenom na blockchainu. Za rozsouzení sporu dostane odměnu.
 

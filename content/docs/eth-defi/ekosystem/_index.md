@@ -1,3 +1,4 @@
 ---
-title: Přehled ekosystému
+title: Ekosystém
+weight: 2
 ---

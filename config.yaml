@@ -23,6 +23,8 @@ menu:
 
 
 params:
-  BookRepo: https://github.com/gweicz/czsk-cryptoscene 
-  BookEditPath: edit/master/site/content
-  BookLogo: https://raw.githubusercontent.com/gweicz/brand/master/logo/gwei3.png
+  BookRepo: https://github.com/gweicz/docs
+  BookEditPath: edit/master/content
+  BookLogo: /img/logo.png
+  #BookMenuBundle: /menu
+
