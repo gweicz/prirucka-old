@@ -50,8 +50,8 @@ Status je end-to-end šifrovaný messenger, peněženka a Web3 browser v jednom.
 
 Pokročilejší Ethereová peněženka, která dovolí zvolit si vlastní derivation path. Je možné ji použít pro kteroukoliv Ethereum-založenou síť (např. Kovan, Ethereum Classic). Vhodná na používání nestandardních derivation path. Umožňuje směnu tokenů.
 
-- Web: [status.im](https://www.myetherwallet.com/)
-- GitHub: [Status](https://github.com/myetherwallet)
+- Web: [www.myetherwallet.com](https://www.myetherwallet.com/)
+- GitHub: [myetherwallet](https://github.com/myetherwallet)
 - Kompatibilní hardwarová peněženka: Trezor, Ledger, KeepKey, FINNEY, BitBox, XWallet, Secalot
 
 
@@ -60,6 +60,6 @@ Pokročilejší Ethereová peněženka, která dovolí zvolit si vlastní deriva
 
 Pokročilejší Ethereová peněženka, obdoba MyEtherWallet. Také dovolí zvolit si vlastní derivation path a je možné ji použít pro kteroukoliv Ethereum-založenou síť (např. Kovan, Ethereum Classic). Pro změnu sítí v rámci jedné derivation path (vhodné pro claimováni forknutých tokenů či hledání tokenů odeslaných na nesprávnou síť) je snadno použitelná. Umožňuje směnu tokenů.
 
-- Web: [status.im](https://mycrypto.com/)
-- GitHub: [Status](https://github.com/MyCryptoHQ)
+- Web: [mycrypto.com](https://mycrypto.com/)
+- GitHub: [MyCryptoHQ](https://github.com/MyCryptoHQ)
 - Kompatibilní hardwarová peněženka: Trezor, Ledger, Safe-T mini
