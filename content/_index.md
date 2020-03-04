@@ -14,7 +14,7 @@ bookToc: false
 
 {{< columns >}}
 
-### Zapojte se
+### Zapoj se
 
 * [O komunitě]({{< ref "/komunita" >}})
 * [Podpořte nás]({{< ref "/docs/podporte-nas" >}})
@@ -23,14 +23,18 @@ bookToc: false
 
 <--->
 
-### Vzdělávejte se
+### Vzdělávej se
 
-* [Ethereum & DeFi pro začátečníky]({{< ref "/prirucka" >}})
 * [Přehled CZ/SK kryptoscény]({{< ref "/docs/projekty/czsk-kryptoscena" >}})
+* Ethereum & DeFi
+  * [Příručka pro začátečníky]({{< ref "/prirucka" >}})
+  * [Přehled ekosystému]({{< ref "/ekosystem" >}})
+  * [Mýty a pověry]({{< ref "/docs/eth-defi/myty" >}})
+  * [Zajímavosti]({{< ref "/zajimavosti" >}})
 
 <--->
 
-### Odebírejte
+### Odebírej
 
 * [Twitter](https://twitter.com/gweicz)
 * [GitHub](https://github.com/gweicz)
