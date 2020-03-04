@@ -1,6 +1,8 @@
 # Gwei.cz Knowledge Base
 
-<https://gwei.cz>
+![github pages](https://github.com/gweicz/docs/workflows/github%20pages/badge.svg)
+
+* <https://gwei.cz>
 
 ## Adresáře
 
