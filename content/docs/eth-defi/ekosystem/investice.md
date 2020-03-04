@@ -4,17 +4,16 @@ weight: 40
 
 # Investice
 
-
-
-## Obsah
-
-- [TokenSets](#TokenSets)
-
-
-
 ### TokenSets
 
-Umožňuje spravovat vaše portfolio kryptoměn pomocí automatizovaných strategií vytvořenými ostatnímy tradery.
+Umožňuje spravovat vaše portfolio kryptoměn pomocí automatizovaných strategií.
 
-- Web: [tokensets.com](https://www.tokensets.com/)
+Většina setů funguje s dvěma kryptoměnami (např. ETH-DAI nebo WBTC-USDC atp.) a algoritmus či autor setu určuje jen kdy se změní poměr (tzv. *Rebalance*) - např. při očekávaném poklesu se prodá 100% ETH a set bude na 100% v DAI, případně se jen sníží ETH na 75% a DAI bude 15% nebo jakkoliv jinak.
 
+Typy TokenSetů:
+* *Robo Sets* - předdefinované strategie dle indikátorů jako MA, EMA, RSI, Range Bound apod.
+* *Social Trading Sets* - sety ovládané konkrétními obchodníky - většinou jde o známější tváře ETH komunity z celého světa
+
+Web: [tokensets.com](https://www.tokensets.com/)
+
+<a href="https://www.tokensets.com/"><img src="/img/eth-defi/tokensets.png" width="500" /></a>
