@@ -17,7 +17,7 @@ bookToc: false
 ### Zapojte se
 
 * [O komunitě]({{< ref "/komunita" >}})
-* [Podpořte nás]({{< ref "/podpora" >}})
+* [Podpořte nás]({{< ref "/docs/podporte-nas" >}})
 * [Jak se zapojit?]({{< ref "/docs/komunita/jak-se-zapojit" >}})
 * [Discord](https://discord.gg/FpxwbnM) (chat)
 
