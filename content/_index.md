@@ -14,6 +14,15 @@ bookToc: false
 
 {{< columns >}}
 
+### Zapojte se
+
+* [O komunitě]({{< ref "/komunita" >}})
+* [Podpořte nás]({{< ref "/podpora" >}})
+* [Jak se zapojit?]({{< ref "/zapoj-se" >}})
+* [Discord](https://discord.gg/FpxwbnM) (chat)
+
+<--->
+
 ### Vzdělávejte se
 
 * [Ethereum & DeFi pro začátečníky]({{< ref "/prirucka" >}})
@@ -26,11 +35,6 @@ bookToc: false
 * [Twitter](https://twitter.com/gweicz)
 * [GitHub](https://github.com/gweicz)
 
-<--->
-
-### Diskutujte
-
-* [Discord](https://discord.gg/FpxwbnM) (chat)
 
 {{< /columns >}}
 
