@@ -12,9 +12,9 @@ url: /prirucka
 
 Na platformě Ethereum můžete psát kód, který spravuje digitální hodnoty, běží přesně tak, jak je naprogramovaný, a je dostupný kdekoli na světě.
 
-* [*"Co je Ethereum"* na Ethereum.org](https://ethereum.org/cs/what-is-ethereum/) (CZ)
-* [*"What is Ethereum"* na EthHub](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/) (EN)
-* [*"Ethereum"* na české Wikipedii](https://cs.wikipedia.org/wiki/Ethereum) (CZ)
+* ["Co je Ethereum" na Ethereum.org](https://ethereum.org/cs/what-is-ethereum/) (CZ)
+* ["What is Ethereum" na EthHub](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/) (EN)
+* ["Ethereum" na české Wikipedii](https://cs.wikipedia.org/wiki/Ethereum) (CZ)
 
 ## Co jsou to decentralizované finance (*DeFi*)?
 
@@ -22,8 +22,8 @@ Na platformě Ethereum můžete psát kód, který spravuje digitální hodnoty,
 
 Jinak řečeno - cílem DeFi je vytvářet produkty, které běžně známe z tradičních finančních světů – možnost například půjčit si peníze nebo naopak půjčit někomu peníze, investovat, apod. Jediný rozdíl však je, že vše se vytváří na blockchainu – není tedy třeba tradičních postupů a nástrojů, jako bank, burz, apod. ale naopak – vše běží za pomocí smart kontraktů a interakce s nimi.
 
-* [*"DeFi: Finanční systém 2.0"* na Alza.cz](https://www.alza.cz/defi-financni-system-2-0) (CZ)
-* [*"The Definitive Guide to DeFi"* na Exodus.io](https://www.exodus.io/blog/what-is-defi/) (EN)
+* ["DeFi: Finanční systém 2.0" na Alza.cz](https://www.alza.cz/defi-financni-system-2-0) (CZ)
+* ["The Definitive Guide to DeFi" na Exodus.io](https://www.exodus.io/blog/what-is-defi/) (EN)
 * [DeFi.network](https://defi.network/) (EN)
 
 ## Základní pojmy
@@ -34,8 +34,8 @@ Ether (ETH nebo Ξ) je nativní kryptoměna používaná v síti Ethereum a slou
 
 Ether má ale i další použítí, jako je například ukládání hodnoty (např. Při půjčování kolaterálu), směnné médium (např. V obchodu a platbách) a účetní jednotka (např. Na digitálních trzích).
 
-* [*"What is Ether"* na EthHub](https://docs.ethhub.io/ethereum-basics/what-is-ether/) (EN)
-* [*"Monetary Policy"* na EthHub](https://docs.ethhub.io/ethereum-basics/monetary-policy/) (EN)
+* ["What is Ether" na EthHub](https://docs.ethhub.io/ethereum-basics/what-is-ether/) (EN)
+* ["Monetary Policy" na EthHub](https://docs.ethhub.io/ethereum-basics/monetary-policy/) (EN)
 * [Gwei.io](https://gwei.io/) (EN)
 
 ---
@@ -52,7 +52,7 @@ Ether má ale i další použítí, jako je například ukládání hodnoty (nap
 
 Zatímco slovo *„kontrakt“* evokuje právní dohodu; v Ethereu jsou *„chytré kontrakty“* jen kousky kódu, které běží na blockchainu a je zaručeno, že budou produkovat stejný výsledek pro všechny, kdo je provozují. Lze je použít k vytvoření široké škály decentralizovaných aplikací (tzv. *dApps*), které mohou zahrnovat hry, digitální sběratelské předměty, online hlasovací systémy, finanční produkty a mnoho dalších.
 
-* [*"Chytrý kontrakt"* na české Wikipedii](https://cs.wikipedia.org/wiki/Chytr%C3%BD_kontrakt) (CZ)
+* ["Chytrý kontrakt" na české Wikipedii](https://cs.wikipedia.org/wiki/Chytr%C3%BD_kontrakt) (CZ)
 
 ---
 
@@ -66,7 +66,7 @@ Aplikace, které využívají pro převod hodnoty či své fungování chytré k
 
 ERC-20 je standard chytrého kontraktu pro tokeny v síti Ethereum, který usnadňuje práci vývojářům decentralizovaných aplikací.
 
-* [*"Co jsou ERC20 tokeny?"* na CryptoSvět](https://cryptosvet.cz/co-jsou-erc20-tokeny/) (CZ)
+* ["Co jsou ERC20 tokeny?" na CryptoSvět](https://cryptosvet.cz/co-jsou-erc20-tokeny/) (CZ)
 
 ---
 
@@ -127,13 +127,13 @@ Viz ["Web3" v sekci Peněženky]({{< ref "/docs/eth-defi/ekosystem/penezenky" >}
 
 {{< todo >}}
 
-* [*"Privacy"* na EthHub](https://docs.ethhub.io/ethereum-roadmap/privacy/) (EN)
+* ["Privacy" na EthHub](https://docs.ethhub.io/ethereum-roadmap/privacy/) (EN)
 
 ## Historie
 
 {{< todo >}}
 
-* [*"History and Network Upgrades"* na EthHub](https://docs.ethhub.io/ethereum-basics/history-and-forks/) (EN)
+* ["History and Network Upgrades" na EthHub](https://docs.ethhub.io/ethereum-basics/history-and-forks/) (EN)
 
 ## Budoucnost
 
@@ -147,7 +147,7 @@ Viz ["Web3" v sekci Peněženky]({{< ref "/docs/eth-defi/ekosystem/penezenky" >}
 
 {{< todo >}}
 
-* [*"Ethereum 2.0 Phases"* na EthHub](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) (EN)
+* ["Ethereum 2.0 Phases" na EthHub](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) (EN)
 
 
 ## Další zdroje
