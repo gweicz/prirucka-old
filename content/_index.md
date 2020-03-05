@@ -25,12 +25,10 @@ bookToc: false
 
 ### Vzdělávej se
 
+* [Příručka pro začátečníky]({{< ref "/prirucka" >}})
+  * [Co je Ethereum?]({{< ref "/prirucka#co-je-ethereum" >}})
+  * [Co je DeFi ?]({{< ref "/prirucka##co-jsou-to-decentralizované-finance-defi" >}})
 * [Přehled CZ/SK kryptoscény]({{< ref "/docs/projekty/czsk-kryptoscena" >}})
-* Ethereum & DeFi
-  * [Příručka pro začátečníky]({{< ref "/prirucka" >}})
-  * [Přehled ekosystému]({{< ref "/ekosystem" >}})
-  * [Mýty a pověry]({{< ref "/docs/eth-defi/myty" >}})
-  * [Zajímavosti]({{< ref "/zajimavosti" >}})
 
 <--->
 
