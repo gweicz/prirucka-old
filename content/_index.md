@@ -27,7 +27,7 @@ bookToc: false
 
 * [Příručka pro začátečníky]({{< ref "/prirucka" >}})
   * [Co je Ethereum?]({{< ref "/prirucka#co-je-ethereum" >}})
-  * [Co je DeFi ?]({{< ref "/prirucka##co-jsou-to-decentralizované-finance-defi" >}})
+  * [Co je DeFi ?]({{< ref "/prirucka#co-jsou-to-decentralizované-finance-defi" >}})
 * [Přehled CZ/SK kryptoscény]({{< ref "/docs/projekty/czsk-kryptoscena" >}})
 
 <--->
