@@ -1,5 +1,6 @@
 ---
 title: Peněženky
+url: /defi/penezenky
 weight: 10
 ---
 
