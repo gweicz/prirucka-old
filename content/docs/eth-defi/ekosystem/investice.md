@@ -16,4 +16,4 @@ Typy TokenSetů:
 
 Web: [tokensets.com](https://www.tokensets.com/)
 
-<a href="https://www.tokensets.com/"><img src="/img/eth-defi/tokensets.png" width="500" /></a>
+{{< screen "/eth-defi/tokensets.png" "https://www.tokensets.com/" >}}

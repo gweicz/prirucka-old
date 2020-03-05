@@ -5,6 +5,6 @@ weight: 2
 
 # Přehled ekosystému
 
-TODO
+{{< todo >}}
 
 Viz. kategorie v levém menu.

@@ -9,12 +9,12 @@ Tato stránka se pokouší pojmenovat a objasnit nejčastější mýty a pověry
 
 ## Hard fork a The DAO hack
 
-TODO
+{{< todo >}}
 
 ## ICO bublina v roce 2017-2018
 
-TODO
+{{< todo >}}
 
 ## Ether je inflační měna
 
-TODO
+{{< todo >}}

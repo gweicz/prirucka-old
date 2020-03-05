@@ -33,7 +33,11 @@ Standartizované rozhraní pro interakci Ethereum peněženky a webové stránky
 Umožňuje ovládání peněženky a odesílání transakcí z jiné aplikace - např. pomocí mobilní peněženky se přihlásíte v prohlížeci do dApp - každá transakce kterou uděláte bude vyžadovat potvrzení v mobilní peněžence
 
 - Web: [walletconnect.org](https://walletconnect.org/)
+- Demo: [example.walletconnect.org](https://example.walletconnect.org/)
 
+{{< screen "/eth-defi/walletconnect.png" "https://walletconnect.org" >}}
+
+---
 
 ## Smart-contract peněženky
 
@@ -48,7 +52,7 @@ Ideální peněženka pro začátečníky.
 - Kompatibilní hardwarová peněženka: Trezor, Ledger
 - Web3: :x: / WalletConnect: :white_check_mark:
 
-<a href="https://www.argent.xyz/"><img src="/img/eth-defi/argent.png" width="500" /></a>
+{{< screen "/eth-defi/argent.png" "https://www.argent.xyz/" >}}
 
 ---
 
@@ -61,7 +65,7 @@ Pravděpodobně nejbezpečnější smart-contract wallet pro náročnější pou
 - Kompatibilní hardwarová peněženka: Trezor & Ledger (via MetaMask)
 - Web3: :x: / WalletConnect: :white_check_mark:
 
-<a href="https://gnosis-safe.io/"><img src="/img/eth-defi/gnosis-safe.png" width="500" /></a>
+{{< screen "/eth-defi/gnosis-safe.png" "https://gnosis-safe.io/" >}}
 
 ---
 
@@ -74,7 +78,7 @@ Smart-contract wallet propojená s platební kartou a v budoucnu i bankovním ú
 - Platformy: Android, iOS
 - Web3: :x: / WalletConnect: :x: (připravuje se)
 
-<a href="https://monolith.xyz/"><img src="/img/eth-defi/monolith.png" width="500" /></a>
+{{< screen "/eth-defi/monolith.png" "https://monolith.xyz/" >}}
 
 ---
 
@@ -89,7 +93,7 @@ Peněženka podporována drtivou většinou decentralizovaných aplikací (DApps
 - Kompatibilní hardwarová peněženka: Ledger, Trezor
 - Web3: :white_check_mark: / WalletConnect: :x:
 
-<a href="https://metamask.io/"><img src="/img/eth-defi/metamask.png" width="500" /></a>
+{{< screen "/eth-defi/metamask.png" "https://metamask.io/" >}}
 
 ---
 
@@ -102,7 +106,7 @@ Jednoduchá peněženka podporující kromě Etheru a ERC-20 i téměř všechny
 - Kompatibilní hardwarová peněženka: Ledger, Trezor
 - Web3: :white_check_mark: / WalletConnect: :white_check_mark:
 
-<a href="https://www.coinomi.com/"><img src="/img/eth-defi/coinomi.png" width="500" /></a>
+{{< screen "/eth-defi/coinomi.png" "https://www.coinomi.com/" >}}
 
 ---
 
@@ -117,7 +121,7 @@ Klasická multi-kryptoměnová mobilní peněženka s integrovaným Web3 prohlí
 - Kompatibilní hardwarová peněženka: není
 - Web3: :white_check_mark: / WalletConnect: :white_check_mark:
 
-<a href="https://trustwallet.com/"><img src="/img/eth-defi/trustwallet.png" width="500" /></a>
+{{< screen "/eth-defi/trustwallet.png" "https://trustwallet.com/" >}}
 
 ---
 
@@ -130,7 +134,7 @@ Status je end-to-end šifrovaný messenger, peněženka a Web3 browser v jednom.
 - Kompatibilní hardwarová peněženka: není
 - Web3: :white_check_mark: / WalletConnect: :x:
 
-<a href="https://status.im/"><img src="/img/eth-defi/status.png" width="500" /></a>
+{{< screen "/eth-defi/status.png" "https://status.im/" >}}
 
 ---
 
@@ -146,7 +150,7 @@ Pokročilejší Ethereová peněženka, která dovolí zvolit si vlastní deriva
 - Kompatibilní hardwarová peněženka: Trezor, Ledger, KeepKey, FINNEY, BitBox, XWallet, Secalot
 - Web3: :white_check_mark: / WalletConnect: :x:
 
-<a href="https://www.myetherwallet.com/"><img src="/img/eth-defi/mew.png" width="500" /></a>
+{{< screen "/eth-defi/mew.png" "https://www.myetherwallet.com/" >}}
 
 ---
 
@@ -158,6 +162,6 @@ Pokročilejší Ethereová peněženka, obdoba MyEtherWallet. Také dovolí zvol
 - Kompatibilní hardwarová peněženka: Trezor, Ledger, Safe-T mini
 - Web3: :white_check_mark: / WalletConnect: :white_check_mark:
 
-<a href="https://mycrypto.com/"><img src="/img/eth-defi/mycrypto.png" width="500" /></a>
+{{< screen "/eth-defi/mycrypto.png" "https://mycrypto.com/" >}}
 
 

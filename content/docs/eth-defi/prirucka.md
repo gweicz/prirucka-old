@@ -42,7 +42,7 @@ Ether má ale i další použítí, jako je například ukládání hodnoty (nap
 
 ### Gas
 
-TODO
+{{< todo >}}
 
 * [ETHGas.io](https://ethgas.io/) (EN)
 
@@ -80,13 +80,13 @@ Každý ERC-20 token má zabudovanou ochranu - manipulovat s ním může jen tak
 
 ### Seed
 
-TODO
+{{< todo >}}
 
 ---
 
 ### Privátní klíč
 
-TODO
+{{< todo >}}
 
 ---
 
@@ -98,13 +98,13 @@ Viz ["Web3" v sekci Peněženky]({{< ref "/docs/eth-defi/ekosystem/penezenky" >}
 
 ### Wallet2wallet
 
-TODO
+{{< todo >}}
 
 ---
 
 ### Hardwarová peněženka
 
-TODO
+{{< todo >}}
 
 * [Hardware-wallets.io](https://hardware-wallets.io/) (EN)
 
@@ -113,25 +113,25 @@ TODO
 
 ### Kde koupit Ether?
 
-TODO
+{{< todo >}}
 
 ---
 
 ### Jak používat decentralizované aplikace?
 
-TODO
+{{< todo >}}
 
 ---
 
 ### Bezpečnost a soukromí
 
-TODO
+{{< todo >}}
 
 * [*"Privacy"* na EthHub](https://docs.ethhub.io/ethereum-roadmap/privacy/) (EN)
 
 ## Historie
 
-TODO
+{{< todo >}}
 
 * [*"History and Network Upgrades"* na EthHub](https://docs.ethhub.io/ethereum-basics/history-and-forks/) (EN)
 
@@ -139,13 +139,13 @@ TODO
 
 ### Vývoj Etherea
 
-TODO
+{{< todo >}}
 
 ---
 
 ### ETH2.0 & Proof of Stake
 
-TODO
+{{< todo >}}
 
 * [*"Ethereum 2.0 Phases"* na EthHub](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) (EN)
 

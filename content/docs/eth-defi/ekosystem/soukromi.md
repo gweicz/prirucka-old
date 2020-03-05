@@ -21,7 +21,7 @@ Second-layer rešení, které umožnuje zabezpečit jakkýkoliv i už existujíc
 
 * Web: [aztecprotocol.com](https://www.aztecprotocol.com/)
 
-<a href="https://www.aztecprotocol.com/"><img src="/img/eth-defi/aztec.png" width="500" /></a>
+{{< screen "/eth-defi/aztec.png" "https://www.aztecprotocol.com/" >}}
 
 ## Mixéry
 
@@ -33,7 +33,7 @@ Podporované assety: ETH, DAI, cDAI, USDC, cUSDC, USDT
 
 * Web: [tornado.cash](https://tornado.cash/)
 
-<a href="https://tornado.cash/"><img src="/img/eth-defi/tornado-cash.png" width="500" /></a>
+{{< screen "/eth-defi/tornado-cash.png" "https://tornado.cash/" >}}
 
 
 ## Další zdroje
