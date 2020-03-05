@@ -2,6 +2,7 @@ baseURL: 'https://gwei.cz/'
 languageCode: cs-cz
 title: gwei.cz
 theme: book
+enableEmoji: true
 enableGitInfo: true
 
 markup:

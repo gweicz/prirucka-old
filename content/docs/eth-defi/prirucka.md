@@ -78,9 +78,21 @@ Každý ERC-20 token má zabudovanou ochranu - manipulovat s ním může jen tak
 
 ---
 
-### Web3
+### Seed
 
 TODO
+
+---
+
+### Privátní klíč
+
+TODO
+
+---
+
+### Web3
+
+Viz ["Web3" v sekci Peněženky]({{< ref "/docs/eth-defi/ekosystem/penezenky" >}}).
 
 ---
 
