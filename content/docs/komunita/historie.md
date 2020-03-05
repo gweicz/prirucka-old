@@ -22,4 +22,4 @@ weight: 5
 * **1.3.**
   * Komunitní *Discord* pokořil metu 50 členů.
 * **2.3.**
-  * Nová webová stránka *gwei.cz* koncipovaná jako knowledge-base.
+  * Nová webová stránka *[gwei.cz](https://gwei.cz)* koncipovaná jako knowledge-base.
