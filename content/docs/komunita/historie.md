@@ -21,3 +21,5 @@ weight: 5
   * Nový projekt *[Přehled CZ/SK kryptoscény]({{< ref "/docs/projekty/czsk-kryptoscena" >}})*.
 * **1.3.2020**
   * Komunitní *Discord* pokořil metu 50 členů.
+* **2.3.2020**
+  * Nová webová stránka *gwei.cz* koncipovaná jako knowledge-base.
