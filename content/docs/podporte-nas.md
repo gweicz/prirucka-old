@@ -27,7 +27,7 @@ Pokud se vám naše práce líbí či vám příjde přínosná - budeme velice 
 
 [![](/img/donate-qr.png)](https://etherscan.io/address/donate.gweicz.eth)
 
-`0x4D07aF703C163540c59763fF404710204334AF8` - [donate.gweicz.eth](https://etherscan.io/address/donate.gweicz.eth)
+`0x4D07aF703C163540c59763fF404710204334AF81` - [donate.gweicz.eth](https://etherscan.io/address/donate.gweicz.eth)
 
 ## Kdo může s dary nakládat?
 Jediný kdo může manipulovat s finančními dary na výše uvedené adrese je naše komunitní [Decentralizovaná organizace]({{< ref "/dao" >}}) -- jde o smart-contract wallet, a jakkákoliv manipulace s ní vyžaduje potvrzení pomocí hlasování. Můžete si tedy být jisti, že váš příspěvek bude využit na cíle naší komunity a nepůjde někomu do kapsy.
