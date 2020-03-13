@@ -7,7 +7,7 @@ bookToc: false
 {{% center %}}
 <img src="/img/logo.png" height="200" />
 
-# CZ/SK DeFi/ETH Komunita
+# CZ/SK DeFi/Ethereum Komunita
 {{% /center %}}
 
 <div style="margin-top: 5em;"></div>
