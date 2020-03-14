@@ -1,5 +1,5 @@
 ---
-title: Naše projekty
+title: Podporované projekty
 bookFlatSection: true
-weight: 15
+weight: 250
 ---
