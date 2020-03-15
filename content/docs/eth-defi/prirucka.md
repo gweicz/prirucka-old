@@ -42,9 +42,26 @@ Ether má ale i další použítí, jako je například ukládání hodnoty (nap
 
 ### Gas
 
-{{< todo >}}
+Gas je jednotka, která vyjadřuje určité množství výpočetního výkonu. V Ethereum síti je používán k definování množství výpočetního výkonu a úložného prostoru, který je potřeba ke zpracování a uložení transakce na blockchain. Nejmenší jednotkou je 1 GWEI, což je jedna miliardtina etherea (1*10^-9).
+
+Cenu gas(u) určuje odesílatel transakce. Čím víc je ochoten odesílatel transakce nabídnout těžařům za zpracování transakce, tím rychleji se transakce provede, protože těžaři jsou motivováni odměnou, kterou dostanou za gas.
+
+Pro příklad, transakce, při které přesouváte pouze ethery a nespouští se žádný chytrý kontrakt, spotřebuje 21000 Gasu. Pokud nabídnete těžařům 4 GWEI/gas, celkový poplatek za tuto transakci bude 84000 GWEI (0.000084 ETH).
+
+##### Gas jednotky
+
+| Jednotka |     Množství na 1 ETH     |
+| :------: | :-----------------------: |
+|   ETH    |             1             |
+|  Finney  |           1,000           |
+|  Szabo   |         1,000,000         |
+|   Gwei   |       1,000,000,000       |
+|   Mwei   |     1,000,000,000,000     |
+|   Kwei   |   1,000,000,000,000,000   |
+|   Wei    | 1,000,000,000,000,000,000 |
 
 * [ETHGas.io](https://ethgas.io/) (EN)
+* [Aktuální ceny gasu](https://www.ethgasstation.info/) (EN)
 
 ---
 
