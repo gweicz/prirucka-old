@@ -8,37 +8,48 @@ bookToc: false
 <img src="/img/logo.png" height="200" />
 
 # CZ/SK DeFi/Ethereum Komunita
+
+<div style="margin-top: 2em;"></div>
+
+*Yes: we are dreamers. For dreamers are those who can only find their way by moonlight, and their punishment is that they see the dawn before the rest of the world* -- Oscar Wilde
 {{% /center %}}
 
-<div style="margin-top: 5em;"></div>
+<div style="margin-top: 2em;"></div>
+
+{{% center %}}
+
+[Discord](https://discord.gg/FpxwbnM) (chat) -- [Twitter](https://twitter.com/gweicz) -- [GitHub](https://github.com/gweicz)
+
+{{% /center %}}
+
+<div style="margin-top: 2em;"></div>
 
 {{< columns >}}
 
-### Zapoj se
+### Komunita
 
 * [O komunitě]({{< ref "/komunita" >}})
 * [Podpořte nás]({{< ref "/docs/podporte-nas" >}})
 * [Jak se zapojit?]({{< ref "/docs/komunita/jak-se-zapojit" >}})
-* [Discord](https://discord.gg/FpxwbnM) (chat)
 
 <--->
 
-### Vzdělávej se
+### Vzdělání
 
 * [Příručka pro začátečníky]({{< ref "/prirucka" >}})
   * [Co je Ethereum?]({{< ref "/prirucka#co-je-ethereum" >}})
   * [Co je DeFi ?]({{< ref "/prirucka#co-jsou-to-decentralizované-finance-defi" >}})
-* [Přehled CZ/SK kryptoscény]({{< ref "/docs/projekty/czsk-kryptoscena" >}})
 
 <--->
 
-### Odebírej
+### Projekty
 
-* [Twitter](https://twitter.com/gweicz)
-* [GitHub](https://github.com/gweicz)
-
+* [Nejvýhodnější kurzy kryptoměn v CZK/EUR (kurzy.gwei.cz)](https://kurzy.gwei.cz/)
+* [Přehled CZ/SK kryptoscény]({{< ref "/docs/projekty/czsk-kryptoscena" >}})
+* [dCZK stablecoin]({{< ref "/docs/projekty/dczk" >}})
 
 {{< /columns >}}
+
 
 <div style="margin-top: 5em;"></div>
 
