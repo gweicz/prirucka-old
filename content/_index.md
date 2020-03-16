@@ -11,7 +11,8 @@ bookToc: false
 
 <div style="margin-top: 2em;"></div>
 
-*Yes: we are dreamers. For dreamers are those who can only find their way by moonlight, and their punishment is that they see the dawn before the rest of the world* -- Oscar Wilde
+*„Ano: jsme snílci. Snílek je ten, kdo může najít svou cestu pouze za svitu měsíce a jehož trestem je, že vidí rozednění dříve než zbytek světa.“* -- Oscar Wilde
+
 {{% /center %}}
 
 <div style="margin-top: 2em;"></div>
