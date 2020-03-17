@@ -4,6 +4,7 @@ title: gwei.cz
 theme: book
 enableEmoji: true
 enableGitInfo: true
+googleAnalytics: UA-160836210-2
 
 markup:
   defaultMarkdownHandler: goldmark
