@@ -1,5 +1,5 @@
 ---
-title: Vítejte
+title: CZ/SK DeFi/Ethereum Komunita
 type: docs
 bookToc: false
 ---
