@@ -7,3 +7,6 @@
 [submodule "resources/dao"]
 	path = resources/dao
 	url = https://github.com/gweicz/dao.git
+[submodule "themes/book-gweicz"]
+	path = themes/book-gweicz
+	url = https://github.com/gweicz/hugo-book-gweicz
