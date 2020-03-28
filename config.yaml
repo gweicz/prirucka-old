@@ -20,8 +20,13 @@ menu:
       weight: 10
     - name: Twitter
       url: https://twitter.com/gweicz
+      weight: 15
     - name: Discord (chat)
       url: https://discord.gg/FpxwbnM
+      weight: 20
+    - name: Fórum
+      url: https://forum.gwei.cz
+      weight: 25
 
 
 params:

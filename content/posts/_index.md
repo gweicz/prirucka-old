@@ -1,7 +1,7 @@
 ---
-menu:
-  before:
-    name: blog
-    weight: 5
+# menu:
+#   before:
+#     name: blog
+#     weight: 5
 title: Blog
 ---
