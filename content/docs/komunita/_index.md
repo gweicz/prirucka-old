@@ -13,7 +13,7 @@ Gwei.cz je Česko-Slovenská komunita příznivců platformy [Ethereum]({{< ref 
 
 Komunita je spravována neziskovou decentralizovanou organizací [Gwei.cz DAO]({{< ref "/dao" >}}), která se bude snažit rozvíjet nejenom tuto komunitu, ale i povědomí o DeFi a Ethereum obecně.
 
-Jsme otevřená komunita pro všechny, které toto téma fascinuje tak jako nás. Uvítáme každého, kdo by se chtěl připojit a [přidat ruku k dílu]({{< ref "/docs/komunita/jak-se-zapojit" >}}), [podpořit nás finančně]({{< ref "/docs/podporte-nas" >}}) nebo se jen připojit na náš [Discord chat]({{< ref "/kanaly#discord-chat" >}}) a pochlubil se svojí zkušeností.
+Jsme otevřená komunita pro všechny, které toto téma fascinuje tak jako nás. Uvítáme každého, kdo by se chtěl připojit a [přidat ruku k dílu]({{< ref "/docs/komunita/jak-se-zapojit" >}}), [podpořit nás finančně]({{< ref "/docs/podporte-nas" >}}) nebo se jen připojit na náš [Discord chat]({{< ref "/kanaly#discord-chat" >}}) nebo na naše [Fórum]({{< ref "/kanaly#forum" >}}) a pochlubil se svojí zkušeností.
 
 
 ### Naše hodnoty

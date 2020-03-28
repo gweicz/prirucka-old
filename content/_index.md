@@ -11,17 +11,21 @@ bookToc: false
 
 <div style="margin-top: 2em;"></div>
 
-*„Ano: jsme snílci. Snílek je ten, kdo může najít svou cestu pouze za svitu měsíce a jehož trestem je, že vidí rozednění dříve než zbytek světa.“* -- Oscar Wilde
+*S digitální měnou založenou na kryptografii, bez nutnosti důvěřovat prostředníkovi a třetí straně, mohou být peníze bezpečné a transakce bez námahy.* – Satoshi Nakamoto
 
 {{% /center %}}
 
 <div style="margin-top: 2em;"></div>
 
+----
+
 {{% center %}}
 
-[Discord](https://discord.gg/FpxwbnM) (chat) -- [Twitter](https://twitter.com/gweicz) -- [GitHub](https://github.com/gweicz)
+[Fórum](https://forum.gwei.cz/) -- [Discord](https://discord.gg/FpxwbnM) (chat) -- [Twitter](https://twitter.com/gweicz) -- [GitHub](https://github.com/gweicz)
 
 {{% /center %}}
+
+----
 
 <div style="margin-top: 2em;"></div>
 
