@@ -7,6 +7,12 @@ url: /komunita
 
 # Komunita
 
+* [Manifest](#manifest)
+* [Komunikační kanály]({{< ref "/kanaly" >}})
+* [Historie]({{< ref "/docs/komunita/historie" >}})
+* [Jak se zapojit?]({{< ref "/docs/komunita/jak-se-zapojit" >}})
+* [Jak nás podpořit?]({{< ref "/docs/podporte-nas" >}})
+
 ## Manifest
 
 Gwei.cz je Česko-Slovenská komunita příznivců platformy [Ethereum]({{< ref "/prirucka#co-je-ethereum" >}}) a hnutí okolo [decentralizovaných financí]({{< ref "/prirucka#co-jsou-to-decentralizované-finance-defi" >}}) (DeFi). Nezajímá nás spekulace na ceně, ale reálný technologický pokrok v otevřených a decentralizovaných službách, které v rámci DeFi mění svět tradičních financí. Fintech je minulost -- DeFi budoucnost.
@@ -29,11 +35,3 @@ Jsme otevřená komunita pro všechny, které toto téma fascinuje tak jako nás
 
 * šíření osvěty o Ethereu a DeFi a dalších otevřených kryptoměnách
 * tvorba komunikačního a informačního prostoru pro všechny příznivce stejných hodnot
-
-
-## Informace o komunitě
-
-* [Komunikační kanály]({{< ref "/kanaly" >}})
-* [Historie]({{< ref "/docs/komunita/historie" >}})
-* [Jak se zapojit?]({{< ref "/docs/komunita/jak-se-zapojit" >}})
-* [Jak nás podpořit?]({{< ref "/docs/podporte-nas" >}})

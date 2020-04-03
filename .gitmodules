@@ -4,9 +4,6 @@
 [submodule "resources/dczk"]
 	path = resources/dczk
 	url = https://github.com/gweicz/dczk.git
-[submodule "resources/czsk-cryptoscene"]
-	path = resources/czsk-cryptoscene
-	url = https://github.com/gweicz/cz-sk-cryptoscene.git
 [submodule "resources/dao"]
 	path = resources/dao
 	url = https://github.com/gweicz/dao.git

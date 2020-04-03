@@ -1,6 +1,6 @@
 ---
 title: dCZK stablecoin
-weight: 1
+weight: 5
 BookToC: true
 url: /dczk
 ---
