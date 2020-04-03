@@ -6,7 +6,7 @@ url: /dao
 bookCollapseSection: true
 ---
 
-{{% extmd file="resources/dao/docs/README.md" %}}
+{{% extmd file="resources/dao/build/docs/README.md" %}}
 
 ## Další informace
 
