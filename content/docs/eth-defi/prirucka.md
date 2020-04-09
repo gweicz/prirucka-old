@@ -97,13 +97,37 @@ Každý ERC-20 token má zabudovanou ochranu - manipulovat s ním může jen tak
 
 ### Seed
 
-{{< todo >}}
+Seed (občas překládáno jako semínko, dále se vyskytují pojmy recovery seed, recovery sentence, recovery phrase, seed phrase, mnemonic, mnemonic phrase) je list přesně po sobě jdoucích slov potřebného k obnovení krypto peněženky.
+
+Seed se skládá z předem určených slov (2048 slov na základě návrhu BIP39), které dohromady dávají klíč celé peněženky. Z 24 slov (počet se může lišit) peněženka matematicky odvodí veškeré privátní i veřejné klíče ke všem účtům a adresám.
+
+Tento zápis privátních klíčů je v současné době velmi používán, čemuž odpovídá i kompatibilita většiny peněženek.
+
+Seed by neměl být nikdy sdílen s druhou osobou. Jeho kompromitace představuje kompromitaci veškerých privátních klíčů, veškerých adres, veškerých tokenů a veškerých dat spojených s peněženkou. Pro jeho ochranu se proto používají čím dál více hardwarové peněženky.
+
+Příklad seedu:
+> expect raccoon ethics mesh tag wife feed oxygen story rain rural uphold analyst month jacket obscure right invite chapter now saddle goddess round poet
+
+* [List slov z BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) (EN)
+* [Nástroj na generování seedu](https://particl.github.io/bip39/) (EN)
+
 
 ---
 
 ### Privátní klíč
 
-{{< todo >}}
+Privátní klíč je část šifrovacího klíče, jehož druhou částí je veřejný klíč. Odesilatel zašifruje zprávu svým privátním klíčem a odesilateli poskytne svůj veřejný klíč, pomocí nějž lze zprávu zpět dešifrovat.
+
+Veřejným klíčem se rozumí adresa. Privátním klíčem pak její klíč. Uživatel veřejně poskytuje svoji adresu, své veřejné klíče, operace jsou však podepisovány jeho privátním klíčem.
+
+Klíč je tvořen řadou znaků tvořených čísly a písmeny a jeho délka záleží na použítém šifrování.
+
+Privátní klíč by neměl být nikdy sdílen s druhou osobou. Jeho kompromitace představuje kompromitaci veřejného klíče, adresy, veškerých tokenů a veškerých dat spojených s adresou.
+
+Příklad privátního klíče:
+> c6283e9d50f7f0f823adcd8f98d5115045b32dc2048567b9758454086e6f8685
+
+* ["Kryptoměny: K čemu slouží privátní a veřejný klíč?" na Finex.cz](https://finex.cz/kryptomeny-privatni-verejne-klice/) (CZ)
 
 ---
 
@@ -115,7 +139,9 @@ Viz ["Web3" v sekci Peněženky]({{< ref "/docs/eth-defi/ekosystem/penezenky" >}
 
 ### Wallet2wallet
 
-{{< todo >}}
+Wallet2Wallet (přeložitelné jako peněženka do peněženky) je způsob směny tokenů bez použití směnárny. Veškerá data potřebná pro směnu se ukládají přímo na blockchainu a není tedy zapotřebí třetí strany.
+
+ [wallet2wallet.io](https://wallet2wallet.io/) (EN)
 
 ---
 
