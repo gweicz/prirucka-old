@@ -111,7 +111,6 @@ Příklad seedu:
 * [List slov z BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) (EN)
 * [Nástroj na generování seedu](https://particl.github.io/bip39/) (EN)
 
-
 ---
 
 ### Privátní klíč
@@ -140,6 +139,8 @@ Viz ["Web3" v sekci Peněženky]({{< ref "/docs/eth-defi/ekosystem/penezenky" >}
 ### Wallet2wallet
 
 Wallet2Wallet (přeložitelné jako peněženka do peněženky) je způsob směny tokenů bez použití směnárny. Veškerá data potřebná pro směnu se ukládají přímo na blockchainu a není tedy zapotřebí třetí strany.
+
+Wallet2Wallet může také označovat směnu tokenů, která sice probíhá přes službu třetí strany (směnárnu, burzu), ale směna se odehrává přímo přes rozhraní peněženky. Není tedy potřeba tokeny přesouvat na burzu nebo směnárnu.
 
  [wallet2wallet.io](https://wallet2wallet.io/) (EN)
 
@@ -174,12 +175,39 @@ Název | Dostupné modely |     | Popis
 
 * [Hardware-wallets.io](https://hardware-wallets.io/) (EN)
 
+---
 
 ## Použití
 
 ### Kde koupit Ether?
 
-{{< todo >}}
+Možností jak a kde koupit Ether je v současné době nepřeberné množství.
+
+#### Směna Etherea za jiné krypto
+
+Nejjednoduší možností je směnit Ether za jiné krypto. To je možné přes centralizované i decentralizované služby, s nutností registrace ale i bez jakékoliv registrace, plně anonymně. Směna určitého tokenu za jiný může probíhat přes Wallet2Wallet a je podporována nepřeberným množstvím peněženek či webových aplikací.
+
+#### Koupě Etherea přes burzu či směnárnu
+
+Pro nákup Etherea za fiat je nejrozšířenější možností použítí směnárny či burzy. Ty ve většině případů vyžadují od svých zákazníků dodatečné identifikační údaje (jako je občanský průkaz, důkaz o trvalém bydlišti či výpis bankovního účtu) jež jsou zprocesovávány z legislativních důvodů (konkrétně se jedná o KYC - Know Your Customer, poznej svého zákazníka a AML - Anti Money Laundering, proti praní špinavých peněz).
+
+Při výběru této možnosti je zapotřebí předem zjistit jaké dokumenty daná služba vyžaduje, jaké jsou poplatky za zprostředkování obchodu a za samotný výběr a jaký směný kurz daná služba nabízí.
+
+* [Srovnání kurzů pro nákup a prodej](https://kurzy.gwei.cz/) (CZ)
+
+#### Koupě Etherea přes kryptoměnové automaty
+
+Další možností je nakoupit Ethereum přímo přes kryptoměnový automat. Většina těchto automatů nabízí pouze možnost prodeje bitcoinu, ale již existuje i celá řada automatů které nabízí alternativní kryptoměny, dokonce i s možností jejich zpětného výkupu. Tato možnost je plně anonymní, automaty mají však většinou horší kurzy než směnárny a vyšší poplatek za zprostředkování směny.
+
+* [Seznam kryptoměnovýc automatů](https://coinatmradar.com/) (EN)
+* [Seznam míst přijímajících krytptoměny včetně krytpoměnových automatů](https://coinmap.org/) (EN)
+
+#### Koupě Etherea od druhého člověka
+
+Jednou z nejlepších možností jak koupit Ether za fiat, bez nutnosti registrace, je přímo od prodávajícího člověka. Směnu je možno dohodnout na specializovaných diskuzních fórech. U této volby se kurz pohybuje smluvně a je velmi důležité dbát na bezpečnost během obchodu. Účastníci by měli zvolit k obchodu veřejně dostupné místo a dbát předchozích referencí.
+
+* [Krypto Veksl - Facebook skupina pro nákup a prodej](https://www.facebook.com/groups/161651711267271/) (CZ)
+* [LocalBitcoins](https://localbitcoins.com/) (EN)
 
 ---
 
