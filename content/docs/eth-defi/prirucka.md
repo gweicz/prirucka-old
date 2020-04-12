@@ -147,7 +147,30 @@ Wallet2Wallet (přeložitelné jako peněženka do peněženky) je způsob směn
 
 ### Hardwarová peněženka
 
-{{< todo >}}
+Hardwarová peněženka je zažízení, které uchovává privátní klíče separetně mimo počítač, izolovaně a offline. Po připojení k podporované softwarové aplikaci jsou načteny veřejné klíče, v případě že je potřeba použít privátních klíčů, je zpráva podepsána přímo uvnitř zařízení a aplikace dostane jen podepsanou zprávu. Privátní klíče tedy nikdy samotné zařízení neopustí.
+
+Většina z těchto zařízení používá takzvanou hierarchical deterministic wallet (na základě jednoho privátního klíče vypočítá peněženka adresy pro více druhů krypto měn, dle BIP32), jako formát privátních klíčů se používá seed.
+
+Hardwarové peněženky se stávají v současné době standardem, převážně z důvodu že se jedná o jednu z nejspolehlivějších a zároveň uživatelsky nejlehčích možností uchovávání privátních klíčů.
+
+Záloha hardwarové peněženky (privátní klíče představované seedem) by neměla být nikdy sdílena s druhou osobou. Její kompromitace představuje kompromitaci veškerých privátních klíčů, veškerých adres, veškerých tokenů a veškerých dat spojených s peněženkou. Pro největší stupeň bezpečnosti je potřeba zálohovat privátní klíče mimo digitální podobu, a to na papír či na kovovou destičku.
+
+##### Seznam hardwarových peněženek
+
+Název | Dostupné modely |     | Popis
+---   | ---             | --- | ---
+<img src="https://trezor.io/static/images/favicon.ico" width="20" /> [Trezor](https://trezor.io/) | Trezor One, Trezor Model T | CZ | První hardwarová peněženka od SatoshiLabs
+<img src="https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger.svg" width="20" /> [Ledger](https://www.ledger.com/) | Ledger Nano X, Ledger Nano S | FR | Jeden z nejětších výrobců hardwarových peněženek
+<img src="https://shapeshift.io/keepkey/images/logo.png" width="20" /> [KeepKey](https://shapeshift.io/keepkey/) | KeepKey Hardware Wallet Classic | UK | Produkt směnárny ShapeShift
+<img src="https://opendime.com/static/images/opendime-logo-nav.png" width="20" /> [OpenDime](https://opendime.com/) | OpenDime | CA | Bitcoin hardware wallet
+<img src="https://coldcardwallet.com/static/images/coldcard-logo-nav.png" width="20" /> [Coldcard](https://coldcardwallet.com/) | Coldcard Hardware Wallet | CA | Bitcoin hardware wallet
+<img src="https://coolbitx.com/wp-content/uploads/2018/07/CoolBitX_logo-e1563866675472.png" width="20" /> [CoolWallet](https://www.coolwallet.io/) | CoolWallet S | TW | Hardwarová peněženka splečnosti CoolBitX
+[BlochsTech](http://www.blochstech.com/) | Bitcoin smart card | DK | Bitcoinová karta
+<img src="https://cdn.shopify.com/s/files/1/0969/7224/t/4/assets/logo.png" width="20" /> [BitLox](https://www.bitlox.com/) | BitLox | HK | Hardwarová peněženka
+<img src="https://www.secalot.com/wp-content/uploads/2017/05/logo2.png" width="20" /> [Secalot](https://www.secalot.com/) | Secalot dongle | AT | Hardwarová peněženka
+<img src="https://cdn.shopify.com/s/files/1/0031/5765/5641/files/ELLIPAL_720x720_cropped2_100x.png" width="20" /> [Ellipal](https://www.ellipal.com/) | ELLIPAL Titan | HK | Hardwarová peněženka
+<img src="https://dcentwallet.com/images/logo.svg" width="20" /> [D'CENT](https://dcentwallet.com/) | D'CENT Hardware Wallet | KR | Hardwarová peněženka
+<img src="https://cobo.com/_next/static/images/cobo-default-ab59980dea1054a52cf120568de303a9.png" width="20" /> [Cobo](https://cobo.com/) | Cobo | KY | Hardwarová peněženka
 
 * [Hardware-wallets.io](https://hardware-wallets.io/) (EN)
 
