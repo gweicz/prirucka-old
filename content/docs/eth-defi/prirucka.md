@@ -213,7 +213,15 @@ Jednou z nejlepších možností jak koupit Ether za fiat, bez nutnosti registra
 
 ### Jak používat decentralizované aplikace?
 
-{{< todo >}}
+Prvním krokem k používání decentralizovaných aplikací je výběr vhodné peněženky. Pro Ethereum tokeny se hodí ukázkově třeba MetaMask, jež je kompatibilní s celou řadou populárních dApps.
+
+Peněženka vygeneruje uživateli privátní klíče (například v podobě seedu)  - pro generování privátních klíčů a jejich následné uchovávání je vhodné používat hardwarovou peněženku. Z privátních klíčů jsou derivovány veřejné klíče, jež posléze vidí uživatel jako svoji adresu.
+
+Tato adresa slouží k depozitu Etherea. Pro používání dApps je Ether nutný k tomu, aby platil poplatky za transakce, které v rámci dApps probíhají.
+
+Posledním krokem je propojení peněženky s konkrétní decentralizovanou aplikací. Přihlášení většinou probíhá přímo přes rozhraní dané peněženky. V případě používání hardwarové peněženky je potřeba každou transakci v rámci dApps potvrdit přímo daným zařízením.
+
+* [How to use your first Decentralized Application (Dapp)](https://cryptocurrencyhub.io/using-dapps-quick-manual-7384f0db7fe0) (EN)
 
 ---
 
