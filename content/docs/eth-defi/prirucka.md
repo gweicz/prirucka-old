@@ -227,15 +227,40 @@ Posledním krokem je propojení peněženky s konkrétní decentralizovanou apli
 
 ### Bezpečnost a soukromí
 
-{{< todo >}}
+Ethereum dovoluje uživatelům značnou část anonymity, ale i možnost svoji adresu veřejně identifikovat. Existují nástroje pro plnou anonymitu nebo token mixéry, které zamíchají tokeny tak, aby nebylo poznat z které adresy pochází.
+
+Pro bezpečnost je nejdůležitější správné uchovávání privátních klíčů. Jejich ztráta či diskreditace vede ke ztrátě veškerých dat spojených s danou adresou.
+
+Základní pravidla bezpečnosti:
+* Privátní klíče musí být vždy zálohovány
+* S privátníma klíčema je nejlépe pracovat offline, ideálně za pomoci hardwarové peněženky
+* Privátní klíče s nikým nesdílet
+* Uživatel by měl pro každou službu volit nové, před tím nepoužité heslo
+* Pro přihlašování ke službě je dobré používat U2F
 
 * ["Privacy" na EthHub](https://docs.ethhub.io/ethereum-roadmap/privacy/) (EN)
 
 ## Historie
 
-{{< todo >}}
+Vitalik Buterin poprvé představil Ethereum veřejnosti v roce 2014 v Miami, USA na Bitcoin konferenci. Vývoj byl financován pomocí crowdfundingu na Bitcoinové síti, kdy prodej předtěžených tokenů v celkovém množství 60 milionů Etherů probíhal od 22. července 2014 do 2. září 2014 (42 dní). Během té doby se vybralo 31 000 BTC (v té době přibližně 18,3 milionu dolarů). První blok byl vytěžen 30. července 2015.
+
+### Aktualizace Ethereové sítě (forky)
+
+Název | Blok | Datum
+---   | --- | ---
+Frontier |	1 |	2015-07-30
+Frontier Thawing |	200000 |	2015-09-07
+Homestead	| 1150000	| 2016-03-14
+DAO Fork	| 1920000	| 2016-07-20
+Tangerine Whistle	| 2463000	| 2016-10-18
+Spurious Dragon	| 2675000	| 2016-11-22
+Byzantium	| 4370000	| 2017-10-16
+Constantinople	| 7280000	| 2019-02-28
+Istanbul	| 9069000	| 2019-12-06
+Muir Glacier	| 9200000	| 2020-01-02
 
 * ["History and Network Upgrades" na EthHub](https://docs.ethhub.io/ethereum-basics/history-and-forks/) (EN)
+* ["Ethereum" na české Wikipedii](https://cs.wikipedia.org/wiki/Ethereum) (CZ)
 
 ## Budoucnost
 
