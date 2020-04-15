@@ -91,7 +91,7 @@ ERC-20 je standard chytrého kontraktu pro tokeny v síti Ethereum, který usnad
 
 Každý ERC-20 token má zabudovanou ochranu - manipulovat s ním může jen taková decentralizovaná aplikace, které to dovolíte.
 
-* [TokenAllowancce.io](https://tokenallowance.io/) (EN)
+* [TokenAllowance.io](https://tokenallowance.io/) (EN)
 
 ---
 
