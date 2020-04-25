@@ -162,10 +162,27 @@ Viz ["Web3" v sekci Peněženky]({{< ref "/docs/eth-defi/ekosystem/penezenky" >}
 
 ### ETH2.0 & Proof of Stake
 
-{{< todo >}}
+Ethereum 2.0, Serenity nebo také jenom Eth2 jsou všechno názvy pro velký síťový update, který sebou přinese technologické upgrady ve formě Shardingu, Proof of Stake nebo nového virtuálního stroje (eWASM). Je důležité zmínit, že všechny tyto technologické upgrady se neodehrají v jeden okamžik - místo toho budou postupně implementovány. Níže jsou popsány jednotlivé fáze, které budou postupně přinášet ony zmíněné technologické upgrady.
+
+
+
+#### Fáze 0 - Beacon Chain
+
+Hlavním technologickou změnou, která přijde ve fázi 0 je tzv. Beacon Chain. Beacon Chain bude mít jako hlavní úkol spravovat Proof of Stake protokol a všechny shard chainy. Do těchto dvou úkolů lze zahrnout např.:
+
+- spravování validátorů v síti a jejich vklady
+- nominace vybraného navrhovatele pro každý shard v každém kroku
+- organizování validátorů do výborů, aby hlasovali o navrhovaných blocích
+- uplatňování pravidel konsensu
+- uplatňování odměn a sankcí na validátory
+- být hlavním bodem, pomocí kterého budou shardy zaznamenávat svůj stav a zároveň, aby byli umožněny transakce mezi jednotlivými shardy
+
+V momentě, kdy bude Fáze 0 dokončena budou aktivní 2 Ethereum chainy. Pro ujasnění je budeme nazývat jako Eth1 chain (aktuální, PoW chain) a Eth2 chain (nový Beacon Chain). Během této Fáze 0 budou moci uživatelé přesunou své ethery z Eth1 chainu do nového Eth2 chainu a stát se tak validátory. Tento přesun je už nevratný, takže pokud přesunete své ethery do Eth2 chainu, nepůjde je už přesunout zpět. 
+
+Důvod proč někdo může chtít přesunout své ethery je ten, že se může stát validátorem transakcí a získávat tak úroky ze svého vkladu. Minimální množství, které uživatel musí přesunou do Eth2 chainu je 32 ETH. Behěm doby, kdy bude Fáze 0 aktivní se budou všechny uživatelské transakce a smart kontrakty vykonávat stále na Eth1 chainu.
 
 * ["Ethereum 2.0 Phases" na EthHub](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) (EN)
-
+* ["The Beacoin Chain Explainer na Ethos.dev"](https://ethos.dev/beacon-chain/) (EN)
 
 ## Další zdroje
 
