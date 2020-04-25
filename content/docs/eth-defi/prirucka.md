@@ -166,7 +166,9 @@ Ethereum 2.0, Serenity nebo také jenom Eth2 jsou všechno názvy pro velký sí
 
 
 
-#### Fáze 0 - Beacon Chain
+#### ETH2.0
+
+##### Fáze 0 - Beacon Chain
 
 Hlavním technologickou změnou, která přijde ve fázi 0 je tzv. Beacon Chain. Beacon Chain bude mít jako hlavní úkol spravovat Proof of Stake protokol a všechny shard chainy. Do těchto dvou úkolů lze zahrnout např.:
 
@@ -181,8 +183,37 @@ V momentě, kdy bude Fáze 0 dokončena budou aktivní 2 Ethereum chainy. Pro uj
 
 Důvod proč někdo může chtít přesunout své ethery je ten, že se může stát validátorem transakcí a získávat tak úroky ze svého vkladu. Minimální množství, které uživatel musí přesunou do Eth2 chainu je 32 ETH. Behěm doby, kdy bude Fáze 0 aktivní se budou všechny uživatelské transakce a smart kontrakty vykonávat stále na Eth1 chainu.
 
+
+
+##### Fáze 1 - Shard Chainy
+
+Shard chainy jsou hlavním prostředkem ke zvýšení škálovatelnosti celé sítě a v této fázi jich bude konkrétně nasazeno 64. Hlavní výhodou shard chainů je schopnost paralelně zpracovávat transakce. V praxi to znamená, že síť bude schopna zpracovat více transakcí za sekundu.
+
+Hlavním problémem škálovatelnosti, se kterým se nynější blockchainy, včetně Etherea, potýkají, je: že každý node (uzel) v síti musí ověřit a provést každou transakci. Rozdíl v Eth2 bude v tom, že vámi odeslaná transakce se zpracuje a potvrdí validátory pouze na jednom shard chainu a ostatní shard chainy se o ní dozví pomocí tzv. crosslinků (crosslink představuje odkaz na nějaký blok v jiném shard chainu).
+
+{{< screen "/eth-defi/beaconchain-shards.png" "https://ethos.dev/beacon-chain/" >}}
+
+Ve Fázi 0, 1 a 2 bude stále hlavní PoW chain (Eth1) aktivní zatímco bude probíhat testování a přechod na Eth2 chain. To znamená, že se budou odměny vyplácet jak validátorům na Eth2, tak na PoW chainu.
+
+
+
+##### Fáze 2 - Uvedení do pohybu
+
+Fáze 2 je bodem, ve kterém se začne spojovat funkčnost celého systému. Shard chainy se přemění z jednoduchých datových zásobníků do stavu, kdy budou schopny zpracovávat smart konktrakty pomocí virtuálních strojů. Decentralizované aplikace si budou muset vybrat shard chain, na kterém poběží, protože komunikace mezi shard chainy nebude synchronní.
+
+
+
+#### Proof of Stake
+
+Proof of Stake je druh konsensus algoritmu, ve kterém validátoři hlasují o dalším bloku, který má být přidaný do blockchainu. Váha jejich hlasu závisí na velikosti vkladu. Na Proof of Stake je pohlíženo jako na vylepšení Proof of Work (PoW), protože jeho používání nevyžaduje takovou spotřebu elektřiny a zároveň je například také lépe zabezpečen vůči různým typům 51% útoků.
+
+Chcete-li se účastnit hlasování (tj. stát se validátorem) potřebujete nashromáždit určitý počet etherů. Takto nashromážděné ethery se vám posléze úročí a zároveň dostáváte poplatky z transakcí, které jste ověřili.
+
+
+
 * ["Ethereum 2.0 Phases" na EthHub](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) (EN)
 * ["The Beacoin Chain Explainer na Ethos.dev"](https://ethos.dev/beacon-chain/) (EN)
+* ["Proof of Stake (PoS) na EthHub"](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/) (EN)
 
 ## Další zdroje
 
