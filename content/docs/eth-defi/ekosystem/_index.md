@@ -5,6 +5,6 @@ weight: 2
 
 # Přehled ekosystému
 
-{{< todo >}}
+Přehled DeFi ekosystému.
 
 Viz. kategorie v levém menu.
