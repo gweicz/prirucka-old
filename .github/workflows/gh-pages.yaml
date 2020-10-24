@@ -23,7 +23,7 @@ jobs:
         run: hugo --minify
 
       - name: Set subdomain
-        run: echo gwei.cz > public/CNAME
+        run: echo prirucka.gwei.cz > public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
