@@ -1,5 +1,5 @@
 ---
-title: CZ/SK DeFi/Ethereum Komunita
+title: Úvodní stránka
 type: docs
 bookToc: false
 ---
