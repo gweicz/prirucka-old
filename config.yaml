@@ -1,6 +1,6 @@
 baseURL: 'https://prirucka.gwei.cz/'
 languageCode: cs-cz
-title: gwei.cz
+title: Gwei.cz Příručka
 theme: book
 enableEmoji: true
 enableGitInfo: true
